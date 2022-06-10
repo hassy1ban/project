@@ -1,0 +1,7 @@
+[user]
+	name = hassy1ban
+	email = hassy1ban@gmail.com
+[pull]
+	rebase = false
+[core]
+	editor = code --wait
